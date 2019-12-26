@@ -1,0 +1,113 @@
+/************************************TAG STYLES******************************************/
+
+body {
+  background-color: #F5F5F5;
+  background-color: hsl(0, 0%, 98%);
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  margin: auto;
+  text-align: center;
+  width: 1440px;
+  position: relative;
+}
+
+p {
+  color: grey;
+  color: hsl(229, 6%, 66%);
+}
+
+h1 {
+  color: #6699cc;
+  color: hsl(234, 12%, 34%);
+}
+
+div {
+  box-shadow: 5px 5px 20px hsl(212, 86%, 91%);
+  background-color: white;
+  border-radius: 5%;
+  height: 290px;
+  width: 380px;
+  margin: auto;
+}
+
+h2 {
+  color: #6699cc;
+  color: hsl(234, 12%, 34%);
+  text-align: left;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+/************************************CLASS STYLES******************************************/
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: #000099;
+  color: hsl(228, 45%, 44%);
+}
+
+.heading-1 {
+  font-size: 1.9em;
+  font-weight: 200;
+  margin: 100px 0 0 0;
+}
+
+.heading-2 {
+  margin: 0;
+}
+
+.top-text {
+  margin: 20px auto 50px auto;
+  width: 35%;
+}
+
+.supervisor {
+  background: repeating-linear-gradient(hsl(180, 62%, 55%), hsl(180, 62%, 55%) 2%, white 2%, white 100%);
+  position: absolute;
+  top: 330px;
+  left: 115px;
+}
+
+.supervisor {
+  margin-top: 35px;
+}
+
+.team-builder {
+  background: repeating-linear-gradient(hsl(0, 78%, 62%), hsl(0, 78%, 62%) 2%, white 2%, white 100%);
+}
+
+.team-builder h2 {
+  padding-top: 35px;
+}
+
+.karma {
+  background: repeating-linear-gradient(hsl(34, 97%, 64%), hsl(34, 97%, 64%) 2%, white 2%, white 100%);
+}
+
+.karma h2 {
+  padding-top: 35px;
+}
+
+.calculator {
+  background: repeating-linear-gradient(hsl(212, 86%, 64%), hsl(212, 86%, 64%) 2%, white 2%, white 100%);
+  position: absolute;
+  right: 115px;
+  top: 365px;
+}
+
+.calculator h2 {
+  margin-top: 35px;
+}
+
+.box-text {
+  width: 90%;
+  margin-left: 30px;
+  text-align: left;
+}
+
+.images {
+  margin: 10% auto auto 60%;
+}
