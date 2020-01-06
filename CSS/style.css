@@ -111,3 +111,13 @@ h2 {
 .images {
   margin: 10% auto auto 60%;
 }
+
+@media (min-width: 375px) and (max-width: 1440px) {
+  .supervisor {
+    position: static;
+  }
+
+  .calculator {
+    position: static;
+  }
+}
